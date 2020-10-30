@@ -1,0 +1,59 @@
+html,
+body {
+	background: #dbe1ed;
+	color: lightgray;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+/* header */
+header {
+	background-color: #1d1e22;
+	color: white;
+}
+
+.lower-bar {
+	background: #869ab3;
+	color: white;
+}
+
+.lower-left > span,
+.lower-right > span {
+	padding: 0.5em 1em;
+}
+
+/* .name {
+  background: #48638E;
+
+} */
+
+/* messages */
+.msg {
+	color: black;
+}
+
+.msg.intro-text {
+	background: lightgreen;
+}
+
+.me {
+	background: #b1e568;
+}
+
+.you {
+	background: #d2d2d2;
+	color: black;
+}
+
+.like-sub {
+	color: #ffffff;
+}
+
+.notification {
+	width: 100%;
+	display: flex;
+	background: darkgray;
+}

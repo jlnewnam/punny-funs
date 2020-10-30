@@ -1,0 +1,49 @@
+html, body {
+  background: #000000;
+  color: lightgray;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+/* header */
+header {
+  /* background-color: #1d1e22; */
+  color: white;
+}
+
+
+.lower-bar {
+  background: #1d1e22;
+  color: white;
+}
+
+.lower-left > span, 
+.lower-right > span {
+  padding: 0 .5em;
+}
+
+
+/* messages */
+.msg {
+  color: black;
+}
+
+.msg.intro-text {
+  background: lightgreen;
+}
+
+.me {
+  background: lightgreen;
+}
+
+.you {
+  background: lightblue;
+  color: black;
+}
+
+.like-sub {
+  color: #ffffff;
+}
